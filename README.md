@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+### Fresh programming student starting out. ###
+
 <!--
 **GVasing/GVasing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
