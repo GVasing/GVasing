@@ -2,6 +2,9 @@
 
 ### Fresh programming student starting out. ###
 
+My name is George Vasiliadis. I'm currently studying web development, learning HTML and CSS to begin, with more languages to follow.
+I plan on creating and uploading more content to show on here in the upcoming future.
+
 <!--
 **GVasing/GVasing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
